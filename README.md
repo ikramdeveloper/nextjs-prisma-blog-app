@@ -1,6 +1,6 @@
 # NextJS Blog Using Prisma & Next Auth
 
-Using Prisma with PostgreSQL & Next (TypeScript) with Next GitHub Auth to create Blog app
+Using Prisma with PostgreSQL & Next (TypeScript) & Next GitHub Auth to create Blog app
 
 ### Bootstrap a basic Prisma setup:
 
